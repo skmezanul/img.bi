@@ -70,7 +70,7 @@
     "event-stream": "^3.3.2",
     "express": "^4.13.3",
     "express-formidable": "^0.1.2",
-    "express-validator": "^2.18.0",
+    "express-validator": "^3.0.0",
     "gulp": "^3.9.0",
     "gulp-angular-gettext": "^2.1.0",
     "gulp-cached": "^1.1.0",
