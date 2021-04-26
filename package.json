@@ -70,7 +70,7 @@
     "event-stream": "^3.3.2",
     "express": "^4.13.3",
     "express-formidable": "^0.1.2",
-    "express-validator": "^2.18.0",
+    "express-validator": "^6.5.0",
     "gulp": "^3.9.0",
     "gulp-angular-gettext": "^2.1.0",
     "gulp-cached": "^1.1.0",
@@ -90,9 +90,9 @@
     "hashids": "1.0.2",
     "hiredis": "^0.4.1",
     "mkdirp": "^0.5.1",
-    "redis": "^2.4.2",
+    "redis": "^3.1.1",
     "sjcl": "^1.0.3",
     "streamqueue": "^1.1.1",
-    "validator": "^4.5.0"
+    "validator": "^13.6.0"
   }
 }
