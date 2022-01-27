@@ -75,7 +75,7 @@
     "gulp-angular-gettext": "^2.1.0",
     "gulp-cached": "^1.1.0",
     "gulp-concat": "^2.6.0",
-    "gulp-favicons": "^2.2.5",
+    "gulp-favicons": "^3.0.0",
     "gulp-if": "^2.0.0",
     "gulp-jade": "^1.1.0",
     "gulp-less": "^3.0.5",
