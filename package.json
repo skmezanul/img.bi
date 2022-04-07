@@ -59,7 +59,7 @@
     "angular-gettext": "^2.2.0",
     "angular-route": "^1.4.8",
     "angular-strap": "^2.3.6",
-    "async": "^1.5.2",
+    "async": "^3.2.2",
     "base-x": "^1.0.1",
     "bcrypt": "^0.8.5",
     "bootstrap": "^3.3.6",
